@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Im-Suraj
+- 👋 Hi, I’m Suraj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning android
 - 📫 Contact Me By Tg: @imsu_r_aj
